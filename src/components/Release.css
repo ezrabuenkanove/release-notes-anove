@@ -1,0 +1,22 @@
+.releasenote {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-inline: 30px;
+}
+
+.date {
+    color: #355da7;
+    font-weight: 600;
+}
+
+.subtitle {
+    font-weight: 600;
+}
+
+p {
+}
+
+ul {
+    margin-left: 30px;
+}

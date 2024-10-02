@@ -1,0 +1,36 @@
+{"releasenotes":
+    [
+        {
+            "title": "27sept2024",
+            "date":"September 27th, 2024",
+            "introduction": "We're excited to unveil the latest Anove Update, we have worked hard behind the screens to bring you this update full of features and bugfixes. We are exctied to share with you the following milestones we've accomplished:",
+            "featuretext": "This update there are a lot of new features relating to third parties. This helps Anove users reach DORA compliance:",
+            "newfeatures": [
+                {"id": 0, "text": "Added a feature to attach a service to a third party."},
+                {"id": 1, "text": "Added the possibility to create service contracts."},
+                {"id": 2, "text": "Added a feature to indicate the criticality of a third party."},
+                {"id": 3, "text": "Added a new graph to the task overview."}
+            ],
+            "bugtext": "This is some text about a bugfix!",
+            "bugfixes": [
+                {"id": 0, "text": "Fixed a bug!"}
+            ]
+        },
+        {
+            "title": "28sept2024",
+            "date":"September 28th, 2024",
+            "introduction": "We're excited to unveil the latest Anove Update, we have worked hard behind the screens to bring you this update full of features and bugfixes. We are exctied to share with you the following milestones we've accomplished:",
+            "featuretext": "This update there are a lot of new features relating to third parties. This helps Anove users reach DORA compliance:",
+            "newfeatures": [
+                {"id": 0, "text": "Added a feature to attach a service to a third party."},
+                {"id": 1, "text": "Added the possibility to create service contracts."},
+                {"id": 2, "text": "Added a feature to indicate the criticality of a third party."},
+                {"id": 3, "text": "Added a new graph to the task overview."}
+            ],
+            "bugtext": "This is some text about a bugfix!",
+            "bugfixes": [
+                {"id": 0, "text": "Fixed a bug!"}
+            ]
+        }
+    ]
+}
